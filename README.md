@@ -90,6 +90,7 @@ This project aims to develop a **regression model** to predict **bike rental dem
 👤 **Siddhartha Karki**  
 📧 Sidkarki999@gmail.com  
 🌐 https://www.linkedin.com/in/siddhartha-karki 
+
 📌 **Support & Contributions**  
 ⭐ **If you found this project useful, give it a star!**  
 💬 **Feedback and contributions are welcome!** 🎯
